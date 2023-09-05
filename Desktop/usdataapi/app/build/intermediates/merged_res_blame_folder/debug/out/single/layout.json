@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\ravig\\.gradle\\daemon\\8.0\\com.alixaprodev.usdataapi.app-mergeDebugResources-42:\\layout\\content_main.xml",
+        "source": "C:\\Users\\ravig\\.gradle\\daemon\\8.0\\com.alixaprodev.usdataapi.app-main-45:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ravig\\.gradle\\daemon\\8.0\\com.alixaprodev.usdataapi.app-mergeDebugResources-42:\\layout\\fragment_first.xml",
+        "source": "C:\\Users\\ravig\\.gradle\\daemon\\8.0\\com.alixaprodev.usdataapi.app-main-45:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "com.alixaprodev.usdataapi.app-mergeDebugResources-42:/layout/activity_main.xml",
+        "source": "com.alixaprodev.usdataapi.app-main-45:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ravig\\.gradle\\daemon\\8.0\\com.alixaprodev.usdataapi.app-mergeDebugResources-42:\\layout\\fragment_second.xml",
+        "source": "C:\\Users\\ravig\\.gradle\\daemon\\8.0\\com.alixaprodev.usdataapi.app-main-45:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\ravig\\.gradle\\daemon\\8.0\\com.alixaprodev.usdataapi.app-mergeDebugResources-42:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ravig\\.gradle\\daemon\\8.0\\com.alixaprodev.usdataapi.app-main-45:\\layout\\activity_main.xml"
+    }
+]
